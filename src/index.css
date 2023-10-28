@@ -15,5 +15,6 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-
+  background: #F7F7F7;
+ 
 }

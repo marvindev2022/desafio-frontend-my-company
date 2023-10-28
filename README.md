@@ -1,4 +1,4 @@
-# Título: Fórum de Discussão - Frontend
+# Frontend
 
 ## Descrição
 
@@ -15,13 +15,13 @@ Este é o frontend da aplicação de "Fórum de Discussão" para a plataforma de
 1.Clone este repositório.
 
 ```js
-git clone 
+git clone https://github.com/marvindev2022/desafio-frontend-my-company
 ```
 
 2.Navegue até a pasta do projeto.
 
 ```js
-cd frontend
+cd desafio-frontend-my-company
 ```
 
 3.Instale as dependências.
